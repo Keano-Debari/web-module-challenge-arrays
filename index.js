@@ -49,7 +49,7 @@ function copy(array){
     return array;
 }    
 
-copy(OriginalFlavors)
+copy(originalFlavors)
 
 
 
